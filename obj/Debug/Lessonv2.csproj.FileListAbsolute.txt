@@ -1,0 +1,14 @@
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\obj\Debug\Lessonv2.csprojAssemblyReference.cache
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\obj\Debug\Lessonv2.csproj.CoreCompileInputs.cache
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\bin\Debug\Lessonv2.exe.config
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\bin\Debug\Lessonv2.exe
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\bin\Debug\Lessonv2.pdb
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\obj\Debug\Lessonv2.exe
+C:\Users\Victoriya\Desktop\учеба\Lessonv2\Lessonv2\obj\Debug\Lessonv2.pdb
+B:\Geekbrains\Lessonv2\Lessonv2\bin\Debug\Lessonv2.exe.config
+B:\Geekbrains\Lessonv2\Lessonv2\bin\Debug\Lessonv2.exe
+B:\Geekbrains\Lessonv2\Lessonv2\bin\Debug\Lessonv2.pdb
+B:\Geekbrains\Lessonv2\Lessonv2\obj\Debug\Lessonv2.csprojAssemblyReference.cache
+B:\Geekbrains\Lessonv2\Lessonv2\obj\Debug\Lessonv2.csproj.CoreCompileInputs.cache
+B:\Geekbrains\Lessonv2\Lessonv2\obj\Debug\Lessonv2.exe
+B:\Geekbrains\Lessonv2\Lessonv2\obj\Debug\Lessonv2.pdb
